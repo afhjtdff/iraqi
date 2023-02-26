@@ -125,13 +125,15 @@ async def _(event):
     ms = (end - start).microseconds / 1000
     await event.edit(f'''
 لفك خاصية 
-@CC888 🔱
-@X_0_6 🔱
-@I_l_I 🔱
-@P_H_R 🔱
-@z_e_1 🔱
-@F_3_3 🔱
-@G_5_G 🔱
+🔱🔱🔱
+@P_Y_M
+@O_0_9
+@F_c_C
+@A_B_A
+@MBMMM
+@HLLAM
+@isiraqi
+🔱🔱🔱
 
 ''')
 
@@ -218,7 +220,7 @@ async def _(event):
     await event.edit(f'''
 
 @TempMailBot انشاء بريد وهمي
-@SESSIONHACKABOT تهكير ترمكس 
+@SESSION_H_A_K_BOT تهكير ترمكس 
 
 ''')
 
