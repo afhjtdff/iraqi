@@ -315,7 +315,7 @@ async def _(event):
                         await fifthon(functions.channels.UpdateUsernameRequest(
                             channel=ch, username=username))
                         await event.client.send_message(event.chat_id, f'''
-♡𝙞𝙧𝙖𝙦 ~~ @F_3_3 ♡ 
+♡𝙞𝙧𝙖𝙦 ~~ @isiraqi ♡ 
 ✿❯────「✿」────❮✿
 
 𓆩@{𝙪𝙨𝙚𝙧𝙖𝙢𝙚}!
@@ -356,7 +356,7 @@ async def _(event):
                 await fifthon(functions.channels.UpdateUsernameRequest(
                     channel=ch, username=username))
                 await event.client.send_message(event.chat_id, f'''
-♡𝙞𝙧𝙖𝙦 ~~ @F_3_3 ♡ 
+♡𝙞𝙧𝙖𝙦 ~~ @isiraqi ♡ 
 ✿❯────「✿」────❮✿
 
 𓆩@{𝙪𝙨𝙚𝙧𝙖𝙢𝙚}!
