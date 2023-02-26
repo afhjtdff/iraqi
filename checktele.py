@@ -225,7 +225,7 @@ async def _(event):
         async def _(event):
             if ispay2[0] == "yes":
                 if "on" in isclaim:
-                    await event.edit(f"𝙏𝙃𝙀 𝘾𝙃𝙀𝘾𝙆 𝘼𝙍𝙍𝙄𝙑𝙀𝘿({trys}) 𝙊𝙁 𝘼𝙏𝙏𝙀𝙈𝙋𝙏𝙎")
+                    await event.edit(f"𝙉𝙐𝙈𝘽𝙀𝙍 𝘾𝙡𝙞𝙘𝙠({trys}) 𝙊𝙁 𝘼𝙏𝙏𝙀𝙈𝙋𝙏𝙎")
                 elif "off" in isclaim:
                     await event.edit("𝙏𝙃𝙀 𝘾𝙃𝙀𝘾𝙆𝙀𝙍 𝙎𝙏𝙊𝙋𝙋𝙀𝘿 ✪ !")
                 else:
@@ -297,7 +297,7 @@ async def _(event):
             @fifthon.on(events.NewMessage(outgoing=True, pattern=r"\.حالة التثبيت التلقائي"))
             async def _(event):
                 if "on" in isauto:
-                    msg = await event.edit(f"التثبيت وصل لـ({trys}) من المحاولات")
+                    msg = await event.edit(f"𝙉𝙐𝙈𝘽𝙀𝙍 𝘾𝙡𝙞𝙘𝙠({trys})𝙤𝙛 𝙖𝙩𝙩𝙚𝙢𝙥𝙩𝙨")
                 elif "off" in isauto:
                     await event.edit("لايوجد تثبيت شغال !")
                 else:
