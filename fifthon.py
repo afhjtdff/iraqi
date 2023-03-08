@@ -1,6 +1,5 @@
 from telethon.errors.rpcerrorlist import YouBlockedUserError
 from telethon.tl import functions
-from hijri_converter import Gregorian
 from telethon.tl import functions
 from telethon.tl.functions.channels import LeaveChannelRequest
 from collections import deque
